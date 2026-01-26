@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TRAINSTATION_TEMPLATE002B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/zm_city17_v3_cr_d/c-3063_-846_449"
+	}
+}

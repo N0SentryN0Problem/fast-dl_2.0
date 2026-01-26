@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEROOF002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/zm_city17_v3_cr_d/c-2432_-809_240"
+	}
+}

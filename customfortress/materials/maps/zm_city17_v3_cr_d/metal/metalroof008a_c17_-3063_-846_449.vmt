@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/METAL/METALROOF008A_C17.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/zm_city17_v3_cr_d/c-3063_-846_449"
+		}
+	}
+}

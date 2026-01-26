@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/nature/sewer_waterdarkfog_dx70.vmt"
+	"insert"
+	{
+		"$waterdepth"		"107"
+	}
+}
